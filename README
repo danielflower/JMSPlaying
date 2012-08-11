@@ -1,0 +1,3 @@
+Just a simple JMS sender and receiver example with reconnect logic.
+
+Purely for experimenting with JMS.  To run, you need an ActiveMQ broker running on localhost:61616
